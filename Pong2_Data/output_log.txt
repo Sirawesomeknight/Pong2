@@ -1,0 +1,50 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Github\Pong2\Pong2\Pong2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Github\Pong2\Pong2\Pong2_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.287 seconds
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Github\Pong2\Pong2\Pong2_Data\Managed\System.dll (this message is harmless)
+desktop: 3840x2160 48Hz; virtual: 3840x2160 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.872563 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.712210 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 276.
+Total: 3.427672 ms (FindLiveObjects: 0.036712 ms CreateObjectMapping: 0.034343 ms MarkObjects: 0.281461 ms  DeleteObjects: 3.073575 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 21f0 -> priority: 1 
+  Thread -> id: 3518 -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.614241 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 6.095043 ms (FindLiveObjects: 0.020132 ms CreateObjectMapping: 0.017369 ms MarkObjects: 0.188693 ms  DeleteObjects: 5.868452 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.716483 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 266.
+Total: 1.581395 ms (FindLiveObjects: 0.023290 ms CreateObjectMapping: 0.015790 ms MarkObjects: 0.208826 ms  DeleteObjects: 1.332698 ms)
+
